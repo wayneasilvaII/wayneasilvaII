@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This ePortfolio is currently under construction.
+
 <!--
 **wayneasilvaII/wayneasilvaII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
