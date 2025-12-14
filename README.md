@@ -25,3 +25,17 @@ Database Functionality – Persistent storage was added using a lightweight data
 
 Together, these enhancements illustrate my ability to evaluate existing systems, make informed design decisions, and iteratively improve software using sound computer science principles. The portfolio reflects both my technical development and my approach to thoughtful, incremental problem solving.
 
+## Artifact Index
+
+### Rust Inventory Tracker (Capstone Artifact)
+A command-line grocery inventory tracking application originally written in C++ and fully enhanced in Rust.
+
+🔗 **Repository:**  
+https://github.com/wayneasilvaII/rust-inventory-tracker
+
+**Enhancement Areas:**
+- Software Design & Engineering
+- Algorithms & Data Structures
+- Database Integration
+
+
