@@ -27,6 +27,12 @@ Together, these enhancements illustrate my ability to evaluate existing systems,
 
 ## Artifact Index
 
+### C++ Inventory Tracker (Original Artifact)
+A command-line grocery inventory tracking application written in C++.
+
+🔗 **Repository:**  
+https://github.com/wayneasilvaII/Corner-Store-Inventory-Frequency-Tracker
+
 ### Rust Inventory Tracker (Capstone Artifact)
 A command-line grocery inventory tracking application originally written in C++ and fully enhanced in Rust.
 
