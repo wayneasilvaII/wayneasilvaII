@@ -33,6 +33,9 @@ A command-line grocery inventory tracking application written in C++.
 🔗 **Repository:**  
 https://github.com/wayneasilvaII/Corner-Store-Inventory-Frequency-Tracker
 
+**Code Review Video**
+https://youtu.be/rROxnryGSkA
+
 ### Rust Inventory Tracker (Capstone Artifact)
 A command-line grocery inventory tracking application originally written in C++ and fully enhanced in Rust.
 
