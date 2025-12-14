@@ -24,8 +24,3 @@ Algorithms and Data Structures – Core logic was refined through the selection 
 Database Functionality – Persistent storage was added using a lightweight database, extending the application beyond file-based processing and demonstrating foundational database integration skills.
 
 Together, these enhancements illustrate my ability to evaluate existing systems, make informed design decisions, and iteratively improve software using sound computer science principles. The portfolio reflects both my technical development and my approach to thoughtful, incremental problem solving.
-
-## Artifact Index
-- Enhancement One: Software Design & Engineering
-- Enhancement Two: Algorithms & Data Structures
-- Enhancement Three: Databases
